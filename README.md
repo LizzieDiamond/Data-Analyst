@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🔭 I’m currently working on<br>Patient Pbix<br>Customer Behaviour Sql<br>Python<br><br><br>📚 I'm currently learning French and Advanced Sql and Python<br><br>🎯 Goals: To become a Data Consultant<br><br>🎲 Fun fact: I am Genius</p>
+<p data-importer="text" align="left">🔭 I’m currently working on<br>Patient Pbix<br>Customer Behaviour Sql<br>Python<br><br><br>📚 I'm currently learning French and Advanced Sql and Python<br><br>🎯 Goals: To become a Data Consultant<br><br>🎲 Fun fact: I am Genius<br><br>I am Working on https://github.com/users/LizzieDiamond/projects/3</p>
 
 ###
 
